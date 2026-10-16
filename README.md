@@ -30,7 +30,7 @@ I'm a Software Developer with professional experience in JavaScript, HTML, CSS, 
 
 ---
 
-*Learning continuously. Building with purpose.*## Hi there 👋
+*Learning continuously. Building with purpose.
 
 <!--
 **Deepa17621/Deepa17621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
