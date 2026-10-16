@@ -25,7 +25,7 @@ I'm a Software Developer with professional experience in JavaScript, HTML, CSS, 
 
 ### 🤝 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/deepa-rajendiran-472a13252)
+- [www.linkedin.com/in/deepa-rajendiran-472a13252](www.linkedin.com/in/deepa-rajendiran-472a13252)
 - [Email](deeparajendiran2002@gmail.com)
 
 ---
