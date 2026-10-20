@@ -2,47 +2,56 @@
 
 ### Software Developer | Aspiring Java Backend Developer
 
-I'm a Software Developer with professional experience in JavaScript, HTML, CSS, and Zoho CRM extensions. I'm expanding my expertise in Java backend development, with a focus on building reliable applications and understanding software engineering fundamentals.
-
-### 💻 Technical Skills
-
-- **Languages:** Java, JavaScript, SQL
-- **Backend:** Spring Boot, Spring Data JPA, Hibernate — learning and project development
-- **Web Technologies:** HTML, CSS, REST APIs
-- **Tools & Platforms:** Git, GitHub, Zoho CRM
-
-### 🚀 Projects
-
-- **RS Dairy Management System** — A portfolio project focused on backend application design and dairy business workflows. *(In development)*
-- **Movie Ticket Booking System** — Exploring object-oriented design, booking workflows, and multithreading in Java. *(In development)*
-
-### 🌱 Currently Focusing On
-
-- Core Java, data structures, and problem-solving
-- SQL, database design, and query optimization
-- Spring Boot, REST API development, and JPA
-- Writing clean, maintainable code
-
-### 🤝 Connect With Me
-
-- [www.linkedin.com/in/deepa-rajendiran-472a13252](www.linkedin.com/in/deepa-rajendiran-472a13252)
-- [Email](deeparajendiran2002@gmail.com)
+Software Developer with professional experience in JavaScript, HTML, CSS, and Zoho CRM extensions. Currently strengthening my Java backend development skills and building projects focused on application design, problem-solving, and maintainable code.
 
 ---
 
-*Learning continuously. Building with purpose.
+## 🛠️ Technical Skills
 
-<!--
-**Deepa17621/Deepa17621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Programming Languages:** Java, JavaScript, SQL
+- **Backend Development:** Spring Boot, Spring Data JPA, Hibernate *(learning and project development)*
+- **Web Technologies:** HTML, CSS, REST APIs
+- **Tools & Platforms:** Git, GitHub, Zoho CRM, Zoho Sigma, Catalyst By Zoho, vs Code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Projects
+
+### 1. Feishu–Zoho CRM Integration
+Contributed to integrating Feishu with Zoho CRM to support cross-platform workflows and data exchange.
+
+### 2. Zoho CRM Meeting Check-Out — Baidu Maps
+Integrated Baidu Maps to capture meeting check-out time and location and store the details as meeting records in Zoho CRM.
+
+### 3. Zoho CRM Approval History UI
+Developed a user interface to display approval history records within Zoho CRM, improving visibility into approval activities.
+
+---
+
+## 🚀 Personal Projects
+
+### RS Dairy Management System
+A dairy business management application focused on product management, inventory tracking, and order processing. *(In development)*
+
+### Movie Ticket Booking System
+A Java project exploring object-oriented design, booking workflows, and multithreading concepts. *(In development)*
+
+---
+
+## 🌱 Currently Learning
+
+- Core Java, Data Structures, and Algorithms
+- SQL and Database Design
+- Spring Boot, REST APIs, and JPA
+- Clean Code and Software Design Principles
+
+---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/deepa-rajendiran-472a13252/)
+- **Email:** [Contact me](mailto:deeparajendiran2002@gmail.com)
+
+---
+
+*Learning continuously. Building with purpose.*
